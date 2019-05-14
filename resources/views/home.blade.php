@@ -9,6 +9,9 @@
                         <a class="btn btn-primary float-right" href="#">
                             Create a Question
                         </a>
+                        <a class="btn btn-primary float-right" href="#">
+                            Sort
+                        </a>
 
                         <div class="card-body">
 
